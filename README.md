@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Wesley 👋
 
 
-👨‍💻 Desenvolvedor Full Stack <br> ❤️ Amante de tecnologia e codificação 
+👨‍💻 Desenvolvedor Full Stack <br> ❤️ Apaixonado por tecnologia e programação
 
 ### 🚀 Tecnologias e Ferramentas
 
@@ -15,7 +15,7 @@
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 
 
-🛠️ Linguagens Frameworks
+🛠️ Frameworks e Bibliotecas
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![Node](    https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
